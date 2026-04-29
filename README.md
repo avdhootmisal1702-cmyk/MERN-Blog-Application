@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Blog Page
 
 A full-stack blog application built with the MERN stack (MongoDB, Express.js, React, Node.js).
@@ -223,3 +224,6 @@ ISC
 ## Support
 
 For support, please open an issue in the repository.
+=======
+# MERN-Blog-Application
+>>>>>>> be2a395f1b69a919444dfd5e33049246bc7f2027
